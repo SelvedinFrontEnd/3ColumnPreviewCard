@@ -6,7 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - Solution URL: [Solution]()
 
-- Live Site URL: [Site]()
+- Live Site URL: [Site](https://3columnpreviewcardselvex.netlify.app)
 
 ### Built with
 
